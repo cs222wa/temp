@@ -10,7 +10,7 @@
   - 1.6 - Risk Analysis
 2. Requirements for Test
 3. Test Strategy
-  - 3.1 -Testing types
+  * - 3.1 -Testing types
    - 3.1.1 - Configuration Testing
    - 3.1.2 - Load Testing
    - 3.1.3 - User Interface Testing
