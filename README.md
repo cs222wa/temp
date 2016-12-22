@@ -62,8 +62,8 @@ Successful testing is dependant on having a reliable testing environment.
 In order to limit these risks, the testing should be started early within the given time frame, in order to solve potential problems while using the IDE and coding language. The testing should be conducted within a stable environment.
 
 # 2 - Requirements for Test
-Tester must have started the web-server.
-Tester must have access to a web browser.
+* Tester must have started the web-server.
+* Tester must have access to a web browser.
 
 # 3 - Test Strategy
 Testers will write manual Test Cases based on the Use Cases provided in the external Requirements Document. They will then conduct the test according to the instructions specified in the Test Cases. Whether the test is successful or not will be determined by comparing expected results based on the scenarios of the Use Cases with actual results provided from the tests. 
@@ -131,15 +131,21 @@ What is being tested | What requirement is tested | Why should we test | What te
 
 
 ## 3.2 - Tools
-Eclipse IDE, JAVA-SE 1.7 (or newer), Microsoft 10, x64-bit, Google Chrome (Version 55.0.2883.87 m), Mozilla Firefox (Version 50.1.0), Microsoft Edge (Version 38.14393.0.0), Opera (Version 42.0.2393.94)
+* Eclipse IDE 
+* JAVA-SE 1.7 (or newer)
+* Microsoft 10, x64-bit
+* Google Chrome (Version 55.0.2883.87 m)
+* Mozilla Firefox (Version 50.1.0)
+* Microsoft Edge (Version 38.14393.0.0)
+* Opera (Version 42.0.2393.94)
 
 # 4 - Resources
 ## 4.1 - Workers
 Testers x 2
 ## 4.2 - System
-Java-SE 1.7 or later.
-Eclipse IDE
-Web browser
+* Java-SE 1.7 or more recent
+* Eclipse IDE
+* Web browser
 
 
 # 5 - Project Milestones
