@@ -30,11 +30,11 @@
 
 ## 1.1 - Purpose
 This Test Plan document for “My web server” supports the following objectives:
-Identify existing project information and application components that should be tested
-List the recommended Requirements for Test
-Recommend and describe the testing strategies to be employed
-Identify the required resources and provide an estimate of the test efforts
-List the deliverable elements of the test project
+* Identify existing project information and application components that should be tested
+* List the recommended Requirements for Test
+* Recommend and describe the testing strategies to be employed
+* Identify the required resources and provide an estimate of the test efforts
+* List the deliverable elements of the test project
 
 
 ## 1.2 - Background
@@ -47,11 +47,11 @@ The Testers will be conducting Installation, Functionality and Security tests wi
 
 
 ## 1.4 - Glossary
-Testers - Responsible for the Testing of the application and web-server
-Product Owner - Responsible for reviewing the final test-report and documentation.
-Stake-holders - Users of the final product.
-Web-server - The Java based web server used to run the application
-Application - Product to be tested
+* Testers - Responsible for the Testing of the application and web-server
+* Product Owner - Responsible for reviewing the final test-report and documentation.
+* Stake-holders - Users of the final product.
+* Web-server - The Java based web server used to run the application
+* Application - Product to be tested
 
 ## 1.5 - References
 [Requirement Document](https://docs.google.com/document/d/1fgQngHIZ4_aGIeB2S9YOBCghcBN9EEKBiaN-71MbGac/) - Use Cases and Requirements
