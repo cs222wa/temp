@@ -11,12 +11,12 @@
 2. Requirements for Test
 3. Test Strategy
  - 3.1 -Testing types
-  *- 3.1.1 - Configuration Testing*
-  *- 3.1.2 - Load Testing*
-  *- 3.1.3 - User Interface Testing*
-  *- 3.1.4 - Browser Testing*
-  *- 3.1.5 - Security and Access Control Testing*
-  *- 3.2 - Tools*
+  - 3.1.1 - Configuration Testing
+  - 3.1.2 - Load Testing
+  - 3.1.3 - User Interface Testing
+  - 3.1.4 - Browser Testing
+  - 3.1.5 - Security and Access Control Testing
+  - 3.2 - Tools
 4. Resources
   - 4.1 - Workers
   - 4.2 - System
