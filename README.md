@@ -1,15 +1,15 @@
 # Artifacts
 
 #Table of Content
-__1. Introduction__
+1. Introduction
   - 1.1 - Purpose
   - 1.2 - Background  
   - 1.3 - Scope
   - 1.4 - Glossary
   - 1.5 - References
   - 1.6 - Risk Analysis
-__2. Requirements for Test__
-__3. Test Strategy__
+2. Requirements for Test
+3. Test Strategy
  - 3.1 -Testing types
   *- 3.1.1 - Configuration Testing*
   *- 3.1.2 - Load Testing*
@@ -17,11 +17,11 @@ __3. Test Strategy__
   *- 3.1.4 - Browser Testing*
   *- 3.1.5 - Security and Access Control Testing*
   *- 3.2 - Tools*
-__4. Resources__
+4. Resources
   - 4.1 - Workers
   - 4.2 - System
-__5. Project Milestones__
-__6. Deliverables__
+5. Project Milestones
+6. Deliverables
   - 6.1 - Test Model
   - 6.2 - Test Results
   - 6.3 - Test Evaluation Report
