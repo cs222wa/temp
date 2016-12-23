@@ -181,29 +181,25 @@ Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual 
 ### 6.1.2 - Load Testing
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.2.1 - Load Testing - Server Access (localhost:1091)
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to the server in the web browser | Index.html is shown | Index.html is shown | None|
+3.1.2.1 - Load Testing - Server Access (localhost:1091)| 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to the server in the web browser | Index.html is shown | Index.html is shown | None|
 
 ### 6.1.3 - User Interface Testing
 
 #### 6.1.3.1 - User Interface Testing - Index.html
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.3.1 - User Interface Testing - Index.html)
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running |Tester enters the url to Index.html in the web browser | Index.html is shown | Index.html is shown | None|
+3.1.3.1 - User Interface Testing - Index.html) | 2016-12-23| Tester 1, Tester 2 | Web-server is running |Tester enters the url to Index.html in the web browser | Index.html is shown | Index.html is shown | None|
 
 
 #### 6.1.3.2 - User Interface Testing - images/works.png
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.3.2 - User Interface Testing - images/works.png
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running |Tester enters the url to images/work.png in the web browser | The chosen image is shown | The chosen image is shown | None|
+3.1.3.2 - User Interface Testing - images/works.png | 2016-12-23| Tester 1, Tester 2 | Web-server is running |Tester enters the url to images/work.png in the web browser | The chosen image is shown | The chosen image is shown | None|
 
 #### 6.1.3.3 - User Interface Testing - images/works.png (removed)
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.3. 3 - User Interface Testing - images/works.png (removed)
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running, resource “works.png” has been temporarily removed from resources folder | Tester enters the url to images/work.png in the web browser | System presents that the resource cannot be found - 404 Not Found | System presents that the resource cannot be found - 404 Not Found | None|
+3.1.3. 3 - User Interface Testing - images/works.png (removed) | 2016-12-23| Tester 1, Tester 2 | Web-server is running, resource “works.png” has been temporarily removed from resources folder | Tester enters the url to images/work.png in the web browser | System presents that the resource cannot be found - 404 Not Found | System presents that the resource cannot be found - 404 Not Found | None|
 
 
 ### 6.1.4 - Security and Access Control Testing
@@ -223,28 +219,24 @@ Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual 
 #### 6.1.5.1 - Browser Testing - Google Chrome
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.5.1 - Browser Testing - Chrome
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Google Chrome browser | Index.html is shown | Index.html is shown | None |
+3.1.5.1 - Browser Testing - Chrome | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Google Chrome browser | Index.html is shown | Index.html is shown | None |
 
 
 #### 6.1.5.2 - Browser Testing - Mozilla Firefox
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.5.2 - Browser Testing - Mozilla
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Mozilla Firefox browser | Index.html is shown | Index.html is shown | None |
+3.1.5.2 - Browser Testing - Mozilla | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Mozilla Firefox browser | Index.html is shown | Index.html is shown | None |
 
 #### 6.1.5.3 - Browser Testing - Microsoft Edge
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.5.3 - Browser Testing - Microsoft Edge
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Microsoft Edge browser | Index.html is shown | Index.html is shown | None |
+3.1.5.3 - Browser Testing - Microsoft Edge | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Microsoft Edge browser | Index.html is shown | Index.html is shown | None |
 
 
 #### 6.1.5.4 - Browser Testing - Opera
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-3.1.5.4 - Browser Testing - Opera
- | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Opera browser | Index.html is shown | Index.html is shown | None |
+3.1.5.4 - Browser Testing - Opera | 2016-12-23| Tester 1, Tester 2 | Web-server is running | Tester enters the url to Index.html in the Opera browser | Index.html is shown | Index.html is shown | None |
 
 
 
@@ -281,38 +273,32 @@ Test case | Evaluation | Reflection |
 ### 6.2.6 - User Interface Testing - Security and Access Control Testing - /.../secret.html 
 Test case | Evaluation | Reflection |
 ---------------- | ---------------- | ---------------- |
-6.1.4.1 - Security and Access Control Testing - /.../secret.html 
- | It is not possible to access a file outside of the configured resource container |  This shows that the security and privacy settings for the resource container works. |
+6.1.4.1 - Security and Access Control Testing - /.../secret.html | It is not possible to access a file outside of the configured resource container |  This shows that the security and privacy settings for the resource container works. |
 
 ### 6.2.7 - User Interface Testing - Security and Access Control Testing - Shut down server
 Test case | Evaluation | Reflection |
 ---------------- | ---------------- | ---------------- |
- 3.1.4.2 - Security and Access Control Testing - Shut down server 
- | It is not possible to access the web-server after it’s been shut down. | This indicated that the web server and application does not leave a cache or cookies to display if the server is down. |
+ 3.1.4.2 - Security and Access Control Testing - Shut down server | It is not possible to access the web-server after it’s been shut down. | This indicated that the web server and application does not leave a cache or cookies to display if the server is down. |
 
 ### 6.2.8 - Browser Testing - Google Chrome 
 Test case | Evaluation | Reflection |
 ---------------- | ---------------- | ---------------- |
-6.1.5.1 - Browser Testing - Google Chrome 
- | Web page works in Google Chrome | For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
+6.1.5.1 - Browser Testing - Google Chrome | Web page works in Google Chrome | For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
 
 ### 6.2.9 - Browser Testing -  Mozilla Firefox
 Test case | Evaluation | Reflection |
 ---------------- | ---------------- | ---------------- |
-6.1.5.2 - Browser Testing -  Mozilla Firefox 
- | Web page works in  Mozilla Firefox | For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
+6.1.5.2 - Browser Testing -  Mozilla Firefox | Web page works in  Mozilla Firefox | For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
 
 ### 6.2.10 - Browser Testing - Microsoft Edge
 Test case | Evaluation | Reflection |
 ---------------- | ---------------- | ---------------- |
-6.1.5.3 - Browser Testing - Microsoft Edge 
- | Web page works in Microsoft Edge | For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
+6.1.5.3 - Browser Testing - Microsoft Edge | Web page works in Microsoft Edge | For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
 
 ### 6.2.11 - Browser Testing - Opera
 Test case | Evaluation | Reflection |
 ---------------- | ---------------- | ---------------- |
-6.1.5.4 - Browser Testing - Opera
- | Web page works in Opera| For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
+6.1.5.4 - Browser Testing - Opera | Web page works in Opera| For the application to work in several web browsers, increases the range of potential Stake-holders that would be willing and capable to use the product. |
 
 
 ##6.3 - Test Analyzation
