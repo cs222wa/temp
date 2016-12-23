@@ -22,9 +22,9 @@
   - 4.2 - System
 5. Project Milestones
 6. Deliverables
-  - 6.1 - Test Model
-  - 6.2 - Test Results
-  - 6.3 - Test Evaluation Report
+  - 6.1 - Test Results
+  - 6.2 - Test Evaluation Report
+  - 6.3 - Test Analyzation
 
 
 # 1- Introduction
@@ -175,8 +175,7 @@ Evaluate Tests | h | 2016-12-23 12.00 | 2016-12-23 16.00 |
 ### 6.1.1 - Configuration Testing
 Test Case | Date | Tester | Post Conditions | Input | Expected Results | Actual Result | Adjustment |
 ------------ | ---------------- | ---------------- |  ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
- 3.1.1.1 - Configuration Testing - Port and Resource Container
- | 2016-12-22| Tester 1, Tester 2 | Correct version of JAVA and Eclipse has been installed | Tester enters socket port number and a shared resource container | Server should start | Server didn’t start due to incorrect source code. | Alter source code.
+ 3.1.1.1 - Configuration Testing - Port and Resource Container | 2016-12-22| Tester 1, Tester 2 | Correct version of JAVA and Eclipse has been installed | Tester enters socket port number and a shared resource container | Server should start | Server didn’t start due to incorrect source code. | Alter source code.
 
 
 ### 6.1.2 - Load Testing
